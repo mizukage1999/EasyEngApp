@@ -1,0 +1,242 @@
+[
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Salut",
+    "correct_answer": "Xin chào ",
+    "incorrect_answers": [
+      "Tạm biệt",
+      "Cảm ơn",
+      "Xin lỗi"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Oui",
+    "correct_answer": "Được",
+    "incorrect_answers": [
+      "Không",
+      "Không có gì",
+      "Xin lỗi"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Génial",
+    "correct_answer": "Tuyệt vời",
+    "incorrect_answers": [
+      "Xấu hổ",
+      "Xúc động",
+      "Không biết"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Ça va, _____ ?",
+    "correct_answer": "et toi",
+    "incorrect_answers": [
+      "m'appelle",
+      "de rien",
+      "au revoir"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "_____ vous t'appelles ?",
+    "correct_answer": "Comment",
+    "incorrect_answers": [
+      "Quoi",
+      "Où",
+      "Pourquoi"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Je ____ un peu français?",
+    "correct_answer": "Parle",
+    "incorrect_answers": [
+      "Avez",
+      "Merde",
+      "Merci"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "____ avez du Wi-Fi ?",
+    "correct_answer": "Vous",
+    "incorrect_answers": [
+      "Je",
+      "Pas",
+      "Bonjour"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "J'ai faim",
+    "correct_answer": "Tôi đói",
+    "incorrect_answers": [
+      "Tôi khát",
+      "Tôi mệt",
+      "Tôi thích"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Chúc may mắn",
+    "correct_answer": "Bonne chance",
+    "incorrect_answers": [
+      "Moi aussi",
+      "D'accord",
+      "Bonjour"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Pourquoi ___ ?",
+    "correct_answer": "Pas",
+    "incorrect_answers": [
+      "Je",
+      "Commnet",
+      "Bonjour"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Je ne comprends pas",
+    "correct_answer": "Tôi không hiểu",
+    "incorrect_answers": [
+      "Tôi không biết",
+      "Cảm ơn bạn",
+      "Tôi thấy hối hận"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Je ne sais pas",
+    "correct_answer": "Tôi không biết",
+    "incorrect_answers": [
+      "Tôi không hiểu",
+      "Tôi thích bạn",
+      "Tôi rất lấy làm tiếc"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Tôi thích bạn",
+    "correct_answer": "Je t'aime",
+    "incorrect_answers": [
+      "Je ne sais pass",
+      "Je n'ai pas d'argent",
+      "Je suis désolé"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Quoi de ___ ?",
+    "correct_answer": "neuf",
+    "incorrect_answers": [
+      "et toi",
+      "rien",
+      "pas"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "___ plus lentement, s'il vous ___",
+    "correct_answer": "Parlez/plaît",
+    "incorrect_answers": [
+      "Je/vous",
+      "Comment/plaît",
+      "Plaît/vous"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Je ____ un peu français?",
+    "correct_answer": "Parle",
+    "incorrect_answers": [
+      "Avez",
+      "Merde",
+      "Merci"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "____ avez du Wi-Fi ?",
+    "correct_answer": "Vous",
+    "incorrect_answers": [
+      "Je",
+      "Pas",
+      "Bonjour"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "J'ai soif",
+    "correct_answer": "Tôi khát",
+    "incorrect_answers": [
+      "Tôi đói",
+      "Tôi mệt",
+      "Tôi thích"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Tuyệt vời",
+    "correct_answer": "C'est parfait !",
+    "incorrect_answers": [
+      "Moi aussi",
+      "D'accord",
+      "Bonjour"
+    ]
+  },
+  {
+    "category": "Quiz",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "T'es un génie",
+    "correct_answer": "Bạn là thiên tài",
+    "incorrect_answers": [
+      "Bạn là đứa tồi",
+      "Bạn rất xứng đáng",
+      "Bạn thật tệ"
+    ]
+  }
+]
