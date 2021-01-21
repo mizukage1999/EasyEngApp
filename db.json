@@ -1,242 +1,500 @@
 [
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Salut",
-    "correct_answer": "Xin chào ",
-    "incorrect_answers": [
-      "Tạm biệt",
-      "Cảm ơn",
-      "Xin lỗi"
-    ]
+  quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) eat',
+          option2: '(B) eats',
+          option3: '(C) are eating',
+          option4: '(D) is eating',
+        },
+        question: 'My parents normally .... breakfast at 7:00 a.m.',
+      },
+      question2: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) cook',
+          option2: '(B) cooks',
+          option3: '(C) are cooking',
+          option4: '(D) is cooking',
+        },
+        question:
+          'This week Barbara is away on business so Tom ... dinner for himself.',
+      },
+      question3: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) has rested - has been being',
+          option2: '(B) has been resting - has been',
+          option3: '(C) has been resting - has been being',
+          option4: '(D) has rested - has been',
+        },
+        question: 'Mary...(rest) in the garden all day because she ... (be) ill.',
+      },
+      question4: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) What',
+          option2: '(B) How',
+          option3: '(C) Why',
+          option4: '(D) When',
+        },
+        question: '...did the writer feel? Angry',
+      },
+      question5: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) have spoken',
+          option2: '(B) has spoken ',
+          option3: '(C) have not been speaking',
+          option4: '(D) has not been speaking',
+        },
+        question:
+          'He ...(not/speak) on the phone for half an hour, just a couple of minutes.',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Oui",
-    "correct_answer": "Được",
-    "incorrect_answers": [
-      "Không",
-      "Không có gì",
-      "Xin lỗi"
-    ]
+   quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) ten years ago',
+          option2: '(B) since ten years',
+          option3: '(C) for ten years ago',
+          option4: '(D) for ten years',
+        },
+        question: 'He has been selling motorcrycles....',
+      },
+      question2: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) discovered',
+          option2: '(B) has discovered',
+          option3: '(C) had discovered',
+          option4: '(D) discovers',
+        },
+        question:
+          'Columbus.... America more than 400 years ago.',
+      },
+      question3: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) run',
+          option2: '(B) runs',
+          option3: '(C) was running',
+          option4: '(D) had run',
+        },
+        question: 'He fell down when he.... towards the church.',
+      },
+      question4: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) still lives',
+          option2: '(B) still lived',
+          option3: '(C) was still living',
+          option4: '(D) were still living',
+        },
+        question: 'We....there when our father died',
+      },
+      question5: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) will play',
+          option2: '(B) will be play ',
+          option3: '(C) play',
+          option4: '(D) would play',
+        },
+        question:
+          'children...ping-pong when their father comes back home tomorrow.',
+      },
+      question6: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) shall have been working',
+          option2: '(B) shall work ',
+          option3: '(C) have been working',
+          option4: '(D) shall be working',
+        },
+        question:
+          'By Christmas, I... for you for 6 months.',
+      },
+      question7: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) am being',
+          option2: '(B) was being ',
+          option3: '(C) have been being',
+          option4: '(D) am',
+        },
+        question:
+          'I...in the room now.',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Génial",
-    "correct_answer": "Tuyệt vời",
-    "incorrect_answers": [
-      "Xấu hổ",
-      "Xúc động",
-      "Không biết"
-    ]
+  quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) must',
+          option2: '(B) had better',
+          option3: '(C) can',
+         
+        },
+        question: 'Ted is flight from amsterdam took more than 11 hours. He...be exhausted after such a long flight.',
+      },
+      question2: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) can not',
+          option2: '(B) dont have to',
+          option3: '(C) must not',
+          
+        },
+        question:
+          'The book is optional. My professor said we could read it if we needed extra credit. But we...read it if we dont want to.',
+      },
+      question3: {
+        correctoption: 'option1',
+        options: {
+          option1: "(A) couldn't",
+          option2: "(B) can't",
+          option3: '(C) might not',
+          
+        },
+        question: 'Susan...hear the speaker because the crowd was cheering so loudly.',
+      },
+      question4: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) must be',
+          option2: '(B) must have been',
+          option3: '(C) must',
+        },
+        question: 'The television is not working. it....dameged during the move',
+      },
+      question5: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) will play',
+          option2: '(B) will be play ',
+          option3: '(C) play',
+          option4: '(D) would play',
+        },
+        question:
+          'children...ping-pong when their father comes back home tomorrow.',
+      },
+      question6: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) shall have been working',
+          option2: '(B) shall work ',
+          option3: '(C) have been working',
+          option4: '(D) shall be working',
+        },
+        question:
+          'By Christmas, I... for you for 6 months.',
+      },
+      question7: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) am being',
+          option2: '(B) was being ',
+          option3: '(C) have been being',
+          option4: '(D) am',
+        },
+        question:
+          'I...in the room now.',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Ça va, _____ ?",
-    "correct_answer": "et toi",
-    "incorrect_answers": [
-      "m'appelle",
-      "de rien",
-      "au revoir"
-    ]
+   quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) along',
+          option2: '(B) up',
+          option3: '(C) away',
+          option4: '(D) on',
+        },
+        question: 'No students can get.... with cheating in the exam.the teacher said',
+      },
+      question2: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) gazed',
+          option2: '(B) stared',
+          option3: '(C) glanced',
+          option4: '(D) glared',
+        },
+        question:
+          'He said he couldn’t give me a detailed description of the man because he had only .... at him briefly',
+      },
+      question3: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) saw',
+          option2: '(B) see',
+          option3: '(C) had seen',
+          option4: '(D) have seen',
+        },
+        question: 'The children ran away as if they.... a ghost.',
+      },
+      question4: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) hardly',
+          option2: '(B) nearly',
+          option3: '(C) almost',
+          option4: '(D) simply',
+        },
+        question: 'We were so late that we...had time to catch the train.',
+      },
+      question5: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) not involved',
+          option2: '(B) were not involved ',
+          option3: '(C) will not be involved',
+          option4: '(D) wouldn’t be involved',
+        },
+        question: 'Frankly, I’d rather you .....in that case.',
+      },
+      question6: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) the',
+          option2: '(B) what',
+          option3: '(C) which',
+          option4: '(D) those',
+        },
+        question:   'Most of ....archaeologists know about prehistoric cultures is based on studies of material remains.',
+      },
+      question7: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) disgrace',
+          option2: '(B) shame ',
+          option3: '(C) dishonor',
+          option4: '(D) pity',
+        },
+        question:
+          'He was expecting a prison sentence but the judge took .... on him.',
+      },
+      question8: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) are taken',
+          option2: '(B) were taken ',
+          option3: '(C) should be taken',
+          option4: '(D) should have been taken',
+        },
+        question:
+          'It is high time that measures .... to prevent further traffic accidents.',
+      },
+      question9: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) don’t you',
+          option2: '(B) won’t you ',
+          option3: '(C) will you',
+          option4: '(D) do you',
+        },
+        question:
+          'Don’t drop litter wherever you want, ......?',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "_____ vous t'appelles ?",
-    "correct_answer": "Comment",
-    "incorrect_answers": [
-      "Quoi",
-      "Où",
-      "Pourquoi"
-    ]
+  quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) has reviewed',
+          option2: '(B) had reviewed',
+          option3: '(C) will review',
+          option4: '(D) reviewed',
+        },
+        question: ' If he ......the lesson yesterday, he could have done the test better',
+      },
+      question2: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) were mending - was pouring',
+          option2: '(B) mended - poured',
+          option3: '(C) mended - was pouring',
+          option4: '(D) were mending - poured',
+        },
+        question:
+          'We .... the roof for Mrs. Smith, an elderly childless woman, when it ....with rain.',
+      },
+      question3: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) cover',
+          option2: '(B) covered',
+          option3: '(C) covering',
+          option4: '(D) to cover',
+        },
+        question: 'A correction pen is used for....your writing mistakes.',
+      },
+      question4: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) will she',
+          option2: '(B) does she',
+          option3: '(C) did she',
+          option4: '(D) has she',
+        },
+        question: 'Your sister won’t go on vacation, ______?',
+      },
+      question5: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) got off',
+          option2: '(B) come apart ',
+          option3: '(C) broke down',
+          option4: '(D) set out',
+        },
+        question:
+          'The bus ....on the way here, so I was half an hour late for my appointment.',
+      },
+      question6: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) a',
+          option2: '(B) an ',
+          option3: '(C) the',
+          option4: '(D) Ø (no article)',
+        },
+        question:
+          'You do not usually have to go to...hospital to have your ears cleaned.',
+      },
+      question7: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) annoy',
+          option2: '(B) have ',
+          option3: '(C) see',
+          option4: '(D) take',
+        },
+        question:
+          'I hope you .... the point of everything your father and I have done for you.',
+      },
+      question8: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) fish',
+          option2: '(B) duck ',
+          option3: '(C) baby',
+          option4: '(D) child',
+        },
+        question:
+          'Sometimes in a bad situation, there may still be some good things. Try not tothrow the.... out with the bathwater.',
+      },
+      question9: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) brand',
+          option2: '(B) model ',
+          option3: '(C) trademark',
+          option4: '(D) logo',
+        },
+        question:
+          'There are so many .... names now that it is impossible to remember themall.',
+      },
+      question10: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) yet ',
+          option2: '(B) although  ',
+          option3: '(C) so that',
+          option4: '(D) because',
+        },
+        question:
+          'The use of computers aids in teaching, ... the role of teachers is still veryimportant.',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Je ____ un peu français?",
-    "correct_answer": "Parle",
-    "incorrect_answers": [
-      "Avez",
-      "Merde",
-      "Merci"
-    ]
+  quiz: {
+    quiz1: {
+      question1: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) ten years ago',
+          option2: '(B) since ten years',
+          option3: '(C) for ten years ago',
+          option4: '(D) for ten years',
+        },
+        question: 'He has been selling motorcrycles....',
+      },
+      question2: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) discovered',
+          option2: '(B) has discovered',
+          option3: '(C) had discovered',
+          option4: '(D) discovers',
+        },
+        question:
+          'Columbus.... America more than 400 years ago.',
+      },
+      question3: {
+        correctoption: 'option3',
+        options: {
+          option1: '(A) run',
+          option2: '(B) runs',
+          option3: '(C) was running',
+          option4: '(D) had run',
+        },
+        question: 'He fell down when he.... towards the church.',
+      },
+      question4: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) still lives',
+          option2: '(B) still lived',
+          option3: '(C) was still living',
+          option4: '(D) were still living',
+        },
+        question: 'We....there when our father died',
+      },
+      question5: {
+        correctoption: 'option2',
+        options: {
+          option1: '(A) will play',
+          option2: '(B) will be play ',
+          option3: '(C) play',
+          option4: '(D) would play',
+        },
+        question:
+          'children...ping-pong when their father comes back home tomorrow.',
+      },
+      question6: {
+        correctoption: 'option1',
+        options: {
+          option1: '(A) shall have been working',
+          option2: '(B) shall work ',
+          option3: '(C) have been working',
+          option4: '(D) shall be working',
+        },
+        question:
+          'By Christmas, I... for you for 6 months.',
+      },
+      question7: {
+        correctoption: 'option4',
+        options: {
+          option1: '(A) am being',
+          option2: '(B) was being ',
+          option3: '(C) have been being',
+          option4: '(D) am',
+        },
+        question:
+          'I...in the room now.',
+      },
+    },
   },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "____ avez du Wi-Fi ?",
-    "correct_answer": "Vous",
-    "incorrect_answers": [
-      "Je",
-      "Pas",
-      "Bonjour"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "J'ai faim",
-    "correct_answer": "Tôi đói",
-    "incorrect_answers": [
-      "Tôi khát",
-      "Tôi mệt",
-      "Tôi thích"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Chúc may mắn",
-    "correct_answer": "Bonne chance",
-    "incorrect_answers": [
-      "Moi aussi",
-      "D'accord",
-      "Bonjour"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Pourquoi ___ ?",
-    "correct_answer": "Pas",
-    "incorrect_answers": [
-      "Je",
-      "Commnet",
-      "Bonjour"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Je ne comprends pas",
-    "correct_answer": "Tôi không hiểu",
-    "incorrect_answers": [
-      "Tôi không biết",
-      "Cảm ơn bạn",
-      "Tôi thấy hối hận"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Je ne sais pas",
-    "correct_answer": "Tôi không biết",
-    "incorrect_answers": [
-      "Tôi không hiểu",
-      "Tôi thích bạn",
-      "Tôi rất lấy làm tiếc"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Tôi thích bạn",
-    "correct_answer": "Je t'aime",
-    "incorrect_answers": [
-      "Je ne sais pass",
-      "Je n'ai pas d'argent",
-      "Je suis désolé"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Quoi de ___ ?",
-    "correct_answer": "neuf",
-    "incorrect_answers": [
-      "et toi",
-      "rien",
-      "pas"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "___ plus lentement, s'il vous ___",
-    "correct_answer": "Parlez/plaît",
-    "incorrect_answers": [
-      "Je/vous",
-      "Comment/plaît",
-      "Plaît/vous"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Je ____ un peu français?",
-    "correct_answer": "Parle",
-    "incorrect_answers": [
-      "Avez",
-      "Merde",
-      "Merci"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "____ avez du Wi-Fi ?",
-    "correct_answer": "Vous",
-    "incorrect_answers": [
-      "Je",
-      "Pas",
-      "Bonjour"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "J'ai soif",
-    "correct_answer": "Tôi khát",
-    "incorrect_answers": [
-      "Tôi đói",
-      "Tôi mệt",
-      "Tôi thích"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Tuyệt vời",
-    "correct_answer": "C'est parfait !",
-    "incorrect_answers": [
-      "Moi aussi",
-      "D'accord",
-      "Bonjour"
-    ]
-  },
-  {
-    "category": "Quiz",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "T'es un génie",
-    "correct_answer": "Bạn là thiên tài",
-    "incorrect_answers": [
-      "Bạn là đứa tồi",
-      "Bạn rất xứng đáng",
-      "Bạn thật tệ"
-    ]
-  }
 ]
