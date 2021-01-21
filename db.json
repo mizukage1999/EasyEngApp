@@ -1,54 +1,326 @@
 [
-  quiz: {
-    quiz1: {
-      question1: {
-        correctoption: 'option1',
-        options: {
-          option1: '(A) eat',
-          option2: '(B) eats',
-          option3: '(C) are eating',
-          option4: '(D) is eating',
+  {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
         },
-        question: 'My parents normally .... breakfast at 7:00 a.m.',
-      },
-      question2: {
-        correctoption: 'option2',
-        options: {
-          option1: '(A) cook',
-          option2: '(B) cooks',
-          option3: '(C) are cooking',
-          option4: '(D) is cooking',
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+   {
+        "right": "cooks",
+        "wrong":  
+          [
+            "cook",
+            "are cooking",
+            "is cooking"
+          ]
         },
-        question:
-          'This week Barbara is away on business so Tom ... dinner for himself.',
-      },
-      question3: {
-        correctoption: 'option2',
-        options: {
-          option1: '(A) has rested - has been being',
-          option2: '(B) has been resting - has been',
-          option3: '(C) has been resting - has been being',
-          option4: '(D) has rested - has been',
+        "question": "This week Barbara is away on business so Tom ... dinner for himself.",
+  },
+ {
+        "right": "has been resting - has been",
+        "wrong":  
+          [
+            "has rested - has been being",
+            "has been resting - has been being",
+            "has rested - has been"
+          ]
         },
-        question: 'Mary...(rest) in the garden all day because she ... (be) ill.',
-      },
-      question4: {
-        correctoption: 'option2',
-        options: {
-          option1: '(A) What',
-          option2: '(B) How',
-          option3: '(C) Why',
-          option4: '(D) When',
+        "question": "Mary...(rest) in the garden all day because she ... (be) ill.",
+  },
+ {
+        "right": "How",
+        "wrong":  
+          [
+            "What",
+            "Why",
+            "When"
+          ]
         },
-        question: '...did the writer feel? Angry',
+        "question": "...did the writer feel? Angry",
+  },
+ {
+        "right": "has not been speaking",
+        "wrong":  
+          [
+            "have spoken",
+            "has spoken",
+            "have not been speaking"
+          ]
+        },
+        "question": "He ...(not/speak) on the phone for half an hour, just a couple of minutes.",
+  },
+ {
+        "right": "for ten years",
+        "wrong":  
+          [
+            "ten years ago",
+            "since ten years",
+            "for ten years ago"
+          ]
+        },
+        "question": "He has been selling motorcrycles...?,
+  },
+ {
+        "right": "discovered",
+        "wrong":  
+          [
+            "has discovered",
+            "had discovered",
+            "discovers"
+          ]
+        },
+        "question": "Columbus.... America more than 400 years ago.",
+  },
+ {
+        "right": "was running",
+        "wrong":  
+          [
+            "run",
+            "runs",
+            "had run"
+          ]
+        },
+        "question": "He fell down when he.... towards the church.",
+  },
+ {
+        "right": "were still living",
+        "wrong":  
+          [
+            "still lived",
+            "still lives",
+            "was still living"
+          ]
+        },
+        "question": "We....there when our father died",
+  },
+ {
+        "right": "will be play",
+        "wrong":  
+          [
+            "will play",
+            "play",
+            "would play"
+          ]
+        },
+        "question": "children...ping-pong when their father comes back home tomorrow.",
+  },
+ {
+        "right": "shall have been working",
+        "wrong":  
+          [
+            "shall work",
+            "have been working",
+            "shall be working"
+          ]
+        },
+        "question": "By Christmas, I... for you for 6 months.",
+  },
+ {
+        "right": "am",
+        "wrong":  
+          [
+            "am being",
+            "was being",
+            "have been being"
+          ]
+        },
+        "question": "I...in the room now.",
+  },
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+ {
+        "right": "eat",
+        "wrong":  
+          [
+            "eats",
+            "are eating",
+            "is eating"
+          ]
+        },
+        "question": "My parents normally .... breakfast at 7:00 a.m.",
+  },
+
+    
+  {
+        "correctoption": "option2",
+        "options": {
+          "option1": '(A) cook',
+          "option2": '(B) cooks',
+          "option3": '(C) are cooking',
+          "option4": '(D) is cooking',
+        },
+        "question":"This week Barbara is away on business so Tom ... dinner for himself.",
       },
-      question5: {
-        correctoption: 'option4',
-        options: {
-          option1: '(A) have spoken',
-          option2: '(B) has spoken ',
-          option3: '(C) have not been speaking',
-          option4: '(D) has not been speaking',
+       {
+        "correctoption": "option2",
+        "options": {
+          "option1": '(A) has rested - has been being',
+          "option2": '(B) has been resting - has been',
+          "option3": '(C) has been resting - has been being',
+          "option4": '(D) has rested - has been',
+        },
+        "question": 'Mary...(rest) in the garden all day because she ... (be) ill.',
+      },
+      {
+        "correctoption": 'option2',
+        "options": {
+          "option1": '(A) What',
+          "option2": '(B) How',
+          "option3": '(C) Why',
+          "option4": '(D) When',
+        },
+        "question": '...did the writer feel? Angry',
+      },
+       {
+        "correctoption": 'option4',
+        "options": {
+          "option1": '(A) have spoken',
+          "option2": '(B) has spoken ',
+          "option3": '(C) have not been speaking',
+          "option4": '(D) has not been speaking',
         },
         question:
           'He ...(not/speak) on the phone for half an hour, just a couple of minutes.',
