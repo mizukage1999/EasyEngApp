@@ -1,5 +1,6 @@
 [
   {
+    "question": "My parents normally .... breakfast at 7:00 a.m.",
         "right": "eat",
         "wrong":  
           [
@@ -7,10 +8,9 @@
             "are eating",
             "is eating"
           ]
-        },
-        "question": "My parents normally .... breakfast at 7:00 a.m.",
-  },
+   },  
    {
+    "question": "This week Barbara is away on business so Tom ... dinner for himself.",
         "right": "cooks",
         "wrong":  
           [
@@ -19,9 +19,9 @@
             "is cooking"
           ]
         },
-        "question": "This week Barbara is away on business so Tom ... dinner for himself.",
-  },
+      
  {
+    "question": "Mary...(rest) in the garden all day because she ... (be) ill.",
         "right": "has been resting - has been",
         "wrong":  
           [
@@ -30,8 +30,6 @@
             "has rested - has been"
           ]
         },
-        "question": "Mary...(rest) in the garden all day because she ... (be) ill.",
-  },
  {
         "right": "How",
         "wrong":  
